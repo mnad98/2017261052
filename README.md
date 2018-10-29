@@ -2,8 +2,9 @@
 <h2>2017261052
  2반 장미나 </h2>
 <h3>기본적인 명령어</h3> 
-git init :현재 디렉토리에 git 저장소를 생성
-git config —global —list :현재 설정정보 조회(--global옵션은 전역설정에 대한 옵션이여서 현재 프로젝트에만 적용할 때는 사용안함) 
+<p>git init :현재 디렉토리에</p> 
+<p>git 저장소를 생성</p>
+<p>git config —global —list :현재 설정정보 조회(--global옵션은 전역설정에 대한 옵션이여서 현재 프로젝트에만 적용할 때는 사용안함)</p> 
 git config user.name :사용자명을 등록 (필수)
 git config user.email :이메일 주소를 등록 (필수)
 git —viersion :현재 git의 버전을 확인 
